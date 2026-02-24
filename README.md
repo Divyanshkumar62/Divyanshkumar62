@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 I am Divyansh! I build full-stack web apps, which means I spend 10% of my time writing code and 90% of my time figuring out why it doesn't work.<br><br>​💬 Ask me about: Java 17, Spring Boot, React, and why "it worked on my machine."<br>​🤝 I’m looking for help with: Naming variables so my future self understands them.<br>​⚡ Fun fact: My most used keyboard shortcut is undoubtedly Ctrl+Z.
+Hey there 👋 I am Divyansh! I build full-stack web apps, which means I spend 10% of my time writing code and 90% of my time figuring out why it doesn't work.<br><br>​💬 Ask me about: Java 17, Spring Boot, React, and why "it worked on my machine."<br>​🤝 I’m looking for help with: Naming variables so my future self understands them.<br>​⚡ and my most used keyboard shortcut is obviously Ctrl+Z.
 
 
 ## 🌐 Socials:
