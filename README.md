@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Backend+%26+Reliability+Engineer;High-Throughput+Distributed+Systems;TypeScript+%E2%80%A2+Java+%E2%80%A2+Docker+%E2%80%A2+SQL;Deterministic+Concurrency+%26+Resilient+APIs)](https://git.io/typing-svg)
 
 <p align="center">
-  <strong>Backend & Reliability Engineer | High-Throughput Distributed Systems • TypeScript • Java • Docker • SQL | Building Deterministic Concurrency & Resilient APIs ⚡</strong>
+  <strong>Specializing in high-throughput distributed architectures, deterministic concurrency control, and zero-downtime database migrations.</strong>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh_Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshkumar62/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh_Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-1-kumar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel)](https://divyansh-kumar-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Divyanshkumar62-181717?style=for-the-badge&logo=github)](https://github.com/Divyanshkumar62)
 
@@ -31,13 +31,11 @@ I build backend services, developer tooling, and automated testing engines. My f
 
 | System | Stack | Core Architecture & Engineering Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| [**cmd-mentor**](https://github.com/Divyanshkumar62/cmd-mentor) | TypeScript, Node.js, Vitest, Tsup | Offline-first terminal command reference and learning assistant with syntax validation and safety boundary checks. | [Code](https://github.com/Divyanshkumar62/cmd-mentor) |
-| [**uptime**](https://github.com/Divyanshkumar62/uptime) | Rust, React, Docker | Multi-protocol uptime monitoring engine running concurrent health probes over HTTP, TCP, DNS, MySQL, Redis, and Docker. | [Code](https://github.com/Divyanshkumar62/uptime) |
+| [**cmd-mentor**](https://github.com/Divyanshkumar62/cmd-mentor) | TypeScript, Node.js, Vitest, Tsup | Offline-first terminal command reference and interactive learning assistant with execution safety boundaries. | [Code](https://github.com/Divyanshkumar62/cmd-mentor) |
+| [**uptime**](https://github.com/Divyanshkumar62/uptime) | Rust (Tokio), React, Docker | Multi-protocol uptime monitoring engine running concurrent health probes over HTTP, TCP, DNS, MySQL, Redis, and Docker. | [Code](https://github.com/Divyanshkumar62/uptime) |
 | [**pulse**](https://github.com/Divyanshkumar62/pulse) | Rust (Tauri), TypeScript, Vite | Cross-platform desktop telemetry and service health monitor with low-overhead heartbeat polling. | [Code](https://github.com/Divyanshkumar62/pulse) |
 | [**Skill_Forge**](https://github.com/Divyanshkumar62/Skill_Forge) | React, TypeScript, Node.js | Gamified productivity and habit-tracking system featuring real-time progression logic and data persistence. | [Live Demo](https://skill-forge-gamma.vercel.app) • [Code](https://github.com/Divyanshkumar62/Skill_Forge) |
-| [**life-os**](https://github.com/Divyanshkumar62/life-os) | Java, Docker Compose | Modular personal operating system backend with persistent transaction logging and containerized database services. | [Code](https://github.com/Divyanshkumar62/life-os) |
-| [**springboot-notification-system**](https://github.com/Divyanshkumar62/springboot-notification-system) | Java, Spring Boot, Docker | Event-driven alert dispatch pipeline featuring retry backoff, template engines, and multi-channel routing. | [Code](https://github.com/Divyanshkumar62/springboot-notification-system) |
-| [**ai-interview-system**](https://github.com/Divyanshkumar62/ai-interview-system) | JavaScript, Node.js, APIs | Automated candidate evaluation harness with structured scoring rubrics and dynamic question pipelines. | [Code](https://github.com/Divyanshkumar62/ai-interview-system) |
+| [**project-pilot**](https://github.com/Divyanshkumar62/project-pilot) | React, Node.js, Express, MongoDB | Full-stack project management web application for agile sprint planning and task dependency tracking. | [Code](https://github.com/Divyanshkumar62/project-pilot) |
 
 ---
 
