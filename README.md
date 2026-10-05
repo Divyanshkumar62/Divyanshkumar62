@@ -1,21 +1,81 @@
-# 💫 About Me:
-Hey there 👋 I am Divyansh! I build full-stack web apps, which means I spend 10% of my time writing code and 90% of my time figuring out why it doesn't work.<br><br>​💬 Ask me about: Java 17, Spring Boot, React, and why "it worked on my machine."<br>​🤝 I’m looking for help with: Naming variables so my future self understands them.<br>​⚡ and my most used keyboard shortcut is obviously Ctrl+Z.
+# Divyansh Kumar
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyanshkumar62) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumardivyansh62@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Backend+%26+Reliability+Engineer;High-Throughput+Distributed+Systems;TypeScript+%E2%80%A2+Java+%E2%80%A2+Docker+%E2%80%A2+SQL;Deterministic+Concurrency+%26+Resilient+APIs)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divyanshkumar62&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divyanshkumar62&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshkumar62&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <strong>Backend & Reliability Engineer | High-Throughput Distributed Systems • TypeScript • Java • Docker • SQL | Building Deterministic Concurrency & Resilient APIs ⚡</strong>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Divyanshkumar62&theme=blueberry&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh_Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshkumar62/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel)](https://divyansh-kumar-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Divyanshkumar62-181717?style=for-the-badge&logo=github)](https://github.com/Divyanshkumar62)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divyanshkumar62&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Engineering Focus & Architecture Principles
+
+I build backend services, developer tooling, and automated testing engines. My focus centers on system correctness, deterministic concurrency control, zero-downtime database migrations, and clean domain isolation.
+
+* **Distributed Systems & High-Throughput Backends:** Designing idempotent APIs, event pipelines, and service boundaries in TypeScript, Java, and Go.
+* **Concurrency & Reliability:** Preventing race conditions, managing distributed locks, handling thread pool saturation, and ensuring graceful degradation under traffic spikes.
+* **Data Storage & Query Optimization:** Schema design, foreign key constraints, connection pool sizing, and query execution planning across PostgreSQL, MySQL, and Redis.
+* **Developer CLI & Internal Automation:** Cross-platform tooling, test automation harnesses, and Chrome DevTools Protocol (CDP) session orchestration.
+
+---
+
+### Flagship Systems & Open Source Projects
+
+| System | Stack | Core Architecture & Engineering Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| [**cmd-mentor**](https://github.com/Divyanshkumar62/cmd-mentor) | TypeScript, Node.js, Vitest, Tsup | Offline-first terminal command reference and learning assistant with syntax validation and safety boundary checks. | [Code](https://github.com/Divyanshkumar62/cmd-mentor) |
+| [**uptime**](https://github.com/Divyanshkumar62/uptime) | Rust, React, Docker | Multi-protocol uptime monitoring engine running concurrent health probes over HTTP, TCP, DNS, MySQL, Redis, and Docker. | [Code](https://github.com/Divyanshkumar62/uptime) |
+| [**pulse**](https://github.com/Divyanshkumar62/pulse) | Rust (Tauri), TypeScript, Vite | Cross-platform desktop telemetry and service health monitor with low-overhead heartbeat polling. | [Code](https://github.com/Divyanshkumar62/pulse) |
+| [**Skill_Forge**](https://github.com/Divyanshkumar62/Skill_Forge) | React, TypeScript, Node.js | Gamified productivity and habit-tracking system featuring real-time progression logic and data persistence. | [Live Demo](https://skill-forge-gamma.vercel.app) • [Code](https://github.com/Divyanshkumar62/Skill_Forge) |
+| [**life-os**](https://github.com/Divyanshkumar62/life-os) | Java, Docker Compose | Modular personal operating system backend with persistent transaction logging and containerized database services. | [Code](https://github.com/Divyanshkumar62/life-os) |
+| [**springboot-notification-system**](https://github.com/Divyanshkumar62/springboot-notification-system) | Java, Spring Boot, Docker | Event-driven alert dispatch pipeline featuring retry backoff, template engines, and multi-channel routing. | [Code](https://github.com/Divyanshkumar62/springboot-notification-system) |
+| [**ai-interview-system**](https://github.com/Divyanshkumar62/ai-interview-system) | JavaScript, Node.js, APIs | Automated candidate evaluation harness with structured scoring rubrics and dynamic question pipelines. | [Code](https://github.com/Divyanshkumar62/ai-interview-system) |
+
+---
+
+### Production Tech Stack
+
+<div align="center">
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Java, SQL, Rust, Go, Python |
+| **Backend & Frameworks** | Node.js, Express, Spring Boot, REST APIs, WebSockets, Fastify |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis, Valkey, MongoDB |
+| **Reliability & Testing** | Vitest, Jest, Playwright, Supertest, TDD, Load Testing |
+| **DevOps & Infrastructure** | Docker, Docker Compose, Linux, GitHub Actions, Nginx, Vercel |
+
+</div>
+
+---
+
+### Activity & Live Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Divyanshkumar62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshkumar62&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshkumar62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered by <strong>Divyansh Kumar</strong> • Automated via <a href="https://github.com/Divyanshkumar62/github-growth-engine">GitHub Growth Engine</a></sub>
+</div>
