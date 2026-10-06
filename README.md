@@ -71,9 +71,3 @@ I build backend services, developer tooling, and automated testing engines. My f
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshkumar62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 
 </div>
-
----
-
-<div align="center">
-  <sub>Engineered by <strong>Divyansh Kumar</strong> • Automated via <a href="https://github.com/Divyanshkumar62/github-growth-engine">GitHub Growth Engine</a></sub>
-</div>
