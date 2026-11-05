@@ -31,11 +31,11 @@ I build backend services, developer tooling, and automated testing engines. My f
 
 | System | Stack | Core Architecture & Engineering Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| [**cmd-mentor**](https://github.com/Divyanshkumar62/cmd-mentor) | TypeScript, Node.js, Vitest, Tsup | Offline-first terminal command reference and interactive learning assistant with execution safety boundaries. | [Code](https://github.com/Divyanshkumar62/cmd-mentor) |
-| [**uptime**](https://github.com/Divyanshkumar62/uptime) | Rust (Tokio), React, Docker | Multi-protocol uptime monitoring engine running concurrent health probes over HTTP, TCP, DNS, MySQL, Redis, and Docker. | [Code](https://github.com/Divyanshkumar62/uptime) |
-| [**pulse**](https://github.com/Divyanshkumar62/pulse) | Rust (Tauri), TypeScript, Vite | Cross-platform desktop telemetry and service health monitor with low-overhead heartbeat polling. | [Code](https://github.com/Divyanshkumar62/pulse) |
-| [**Skill_Forge**](https://github.com/Divyanshkumar62/Skill_Forge) | React, TypeScript, Node.js | Gamified productivity and habit-tracking system featuring real-time progression logic and data persistence. | [Live Demo](https://skill-forge-gamma.vercel.app) • [Code](https://github.com/Divyanshkumar62/Skill_Forge) |
+| [**ledgerline**](https://github.com/Divyanshkumar62/ledgerline) | Java 21, Spring Boot 3, PostgreSQL 16, Kafka, Docker | Double-entry financial ledger service engineered for deterministic concurrency control, idempotency, and auditability under high load and failure modes. | [Code](https://github.com/Divyanshkumar62/ledgerline) |
 | [**project-pilot**](https://github.com/Divyanshkumar62/project-pilot) | React, Node.js, Express, MongoDB | Full-stack project management web application for agile sprint planning and task dependency tracking. | [Code](https://github.com/Divyanshkumar62/project-pilot) |
+| [**cmd-mentor**](https://github.com/Divyanshkumar62/cmd-mentor) | TypeScript, Node.js, Vitest, Tsup | Offline-first terminal command reference and interactive learning assistant with execution safety boundaries. | [Code](https://github.com/Divyanshkumar62/cmd-mentor) |
+| [**pulse**](https://github.com/Divyanshkumar62/pulse) | Rust (Tauri), TypeScript, Vite | Cross-platform desktop telemetry and service health monitor with low-overhead heartbeat polling. | [Code](https://github.com/Divyanshkumar62/pulse) |
+| [**uptime**](https://github.com/Divyanshkumar62/uptime) | Rust (Tokio), React, Docker | Multi-protocol uptime monitoring engine running concurrent health probes over HTTP, TCP, DNS, MySQL, Redis, and Docker. | [Code](https://github.com/Divyanshkumar62/uptime) |
 
 ---
 
@@ -59,7 +59,7 @@ I build backend services, developer tooling, and automated testing engines. My f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyanshkumar62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Divyanshkumar62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshkumar62&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
@@ -68,6 +68,7 @@ I build backend services, developer tooling, and automated testing engines. My f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshkumar62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Divyanshkumar62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 
 </div>
+
